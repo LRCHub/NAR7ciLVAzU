@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "俺たちの明日 (Acoustic ver.)",
+  "base_artist": "Elephant Kashimashi",
+  "createdAt": "2026-02-19T15:08:48.030745Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "俺たちの明日",
+      "artist": "Elephant Kashimashi",
+      "has_synced": true,
+      "path": "select/01_俺たちの明日_Elephant_Kashimashi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "俺たちの明日",
+      "artist": "エレファントカシマシ",
+      "has_synced": true,
+      "path": "select/02_俺たちの明日_エレファントカシマシ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "俺たちの明日",
+      "artist": "エレファントカシマシ",
+      "has_synced": true,
+      "path": "select/03_俺たちの明日_エレファントカシマシ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "俺たちの明日 - Oretachino Ashita",
+      "artist": "Elephant Kashimashi",
+      "has_synced": true,
+      "path": "select/04_俺たちの明日_-_Oretachino_Ashita_Elephant_Kashimashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "俺たちの明日",
+      "artist": "エレファントカシマシ",
+      "has_synced": false,
+      "path": "select/pl_01_俺たちの明日_エレファントカシマシ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "俺たちの明日",
+      "artist": "エレファントカシマシ",
+      "has_synced": false,
+      "path": "select/pl_02_俺たちの明日_エレファントカシマシ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "俺たちの明日",
+      "artist": "エレファントカシマシ",
+      "has_synced": false,
+      "path": "select/pl_03_俺たちの明日_エレファントカシマシ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "俺たちの明日 [弾き語り]",
+      "artist": "エレファントカシマシ",
+      "has_synced": false,
+      "path": "select/pl_04_俺たちの明日_[弾き語り]_エレファントカシマシ.txt"
+    }
+  ]
+}
